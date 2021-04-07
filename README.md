@@ -15,6 +15,7 @@ How to use the launch options:
 6. Boot up the game
 
 What the launch options do:
+
 -tickrate 128 //sets the tickrate on your servers to "128" (highest tickrate on CS:GO)
 
 -novid //disables the valve intro when you start up source games to save time and reduce slight load on the PC
