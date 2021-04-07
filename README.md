@@ -1,4 +1,4 @@
-# CS-GO-FPS-Config
+# CS:GO FPS Config (+launch options)
 
 This is a config (+launch options) for those who want more FPS in their CS:GO
 
