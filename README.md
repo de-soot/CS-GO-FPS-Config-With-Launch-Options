@@ -21,17 +21,17 @@ How to use the launch options:
 
 What the launch options do:
 
--tickrate 128 //sets the tickrate on your servers to "128" (highest tickrate on CS:GO)
+-tickrate 128 : sets the tickrate on your servers to "128" (highest tickrate on CS:GO)
 
--novid //disables the valve intro when you start up source games to save time and reduce slight load on the PC
+-novid : disables the valve intro when you start up source games to save time and reduce slight load on the PC
 
--nojoy //disables joysticks for less startup time and memory usage
+-nojoy : disables joysticks for less startup time and memory usage
 
--nosteamcontroller //disables the steam controller for faster startup and less memory usage
+-nosteamcontroller : disables the steam controller for faster startup and less memory usage
 
--softparticlesdefaultoff //disables scene depth blending for particles and sprites; gives you more FPS
+-softparticlesdefaultoff : disables scene depth blending for particles and sprites; gives you more FPS
 
--high //sets the priority of the CS:GO client to "high" which makes the PC use more resources on the CS:GO client
+-high : sets the priority of the CS:GO client to "high" which makes the PC use more resources on the CS:GO client
 
 -limitvsconst //will limit the game's number of vertex shaders to a maximum of 256, which can cause a FPS boost
 
