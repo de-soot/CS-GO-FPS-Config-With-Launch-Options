@@ -4,7 +4,7 @@ This is a config (+launch options) for those who want more FPS in their CS:GO cl
 
 To install the config:
 1. Download the autoexec.cfg on your pc
-2. Place the config into your folder located at Counter Strike Global Offensive\csgo\cfg
+2. Place the config into your folder located at C:\Program Files (x86)\Steam\steamapps\common\Counter Strike Global Offensive\csgo\cfg
 3. Start up "Counter Strike: Global Offensive"
 
 Launch Options for more FPS in CS:GO:
